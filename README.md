@@ -1,2 +1,1 @@
-# dapei
-大培科技分享订阅地址
+dGhpcyBpcyBhIGV4YWh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9wb2ppZXpoaXl1YW5qdW4vZnJlZXYyL21hc3Rlci8yMDIxMDEwMS55bWxtcGxl
